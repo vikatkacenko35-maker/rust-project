@@ -1,0 +1,1 @@
+C:\Users\Kosmos\Documents\Project_tkachenko\target\debug\Project_tkachenko.exe: C:\Users\Kosmos\Documents\Project_tkachenko\src\labyrinth.rs C:\Users\Kosmos\Documents\Project_tkachenko\src\main.rs C:\Users\Kosmos\Documents\Project_tkachenko\src\pathfinding.rs C:\Users\Kosmos\Documents\Project_tkachenko\src\stats.rs C:\Users\Kosmos\Documents\Project_tkachenko\src\ui.rs
